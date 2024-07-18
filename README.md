@@ -1,2 +1,2 @@
-# H1AR3x-Hardware
-Hexabitz Micro USB-B-to-UART Converter Module Hardware Design
+# HF091CBU-Hardware
+Hexabitz STM32F091CBU6 DevKit Hardware Design
