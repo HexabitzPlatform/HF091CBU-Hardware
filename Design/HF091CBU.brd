@@ -246,6 +246,8 @@
 <dimension x1="26.19375" y1="22.70125" x2="0.635" y2="22.70125" x3="13.414375" y3="25.7175" textsize="1.778" layer="47" dtype="horizontal"/>
 <wire x1="0.635" y1="22.70125" x2="0.635" y2="-0.9525" width="0.1524" layer="47"/>
 <wire x1="-24.92375" y1="11.350625" x2="28.09875" y2="11.350625" width="0.1524" layer="47"/>
+<wire x1="-16.98625" y1="14.605" x2="-16.35125" y2="14.605" width="0.1524" layer="26"/>
+<wire x1="-16.35125" y1="14.605" x2="-16.03375" y2="14.2875" width="0.1524" layer="26"/>
 </plain>
 <libraries>
 <library name="Hexabitz">
@@ -5034,7 +5036,7 @@ design rules under a new name.</description>
 <attribute name="CAPACITANCE" value="100 nF" x="-17.065625" y="14.44625" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="MFN" value="AVX" x="-17.065625" y="14.44625" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="MPN" value="0603YC104K4T2A" x="-17.065625" y="14.44625" size="1.778" layer="28" rot="MR270" display="off"/>
-<attribute name="NAME" x="-17.859375" y="15.71625" size="0.8128" layer="26" rot="MR270"/>
+<attribute name="NAME" x="-15.478125" y="14.2875" size="0.8128" layer="26" rot="MR270"/>
 <attribute name="OCTOPART_URL" value="https://octopart.com/0603yc104k4t2a-avx+interconnect+%2F+elco-8120651" x="-17.065625" y="14.44625" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="TOLERANCE" value="±10%" x="-17.065625" y="14.44625" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="VALUE" x="-15.160625" y="15.08125" size="1.016" layer="28" rot="MR270"/>
